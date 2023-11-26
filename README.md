@@ -1,1 +1,1 @@
-A text maze generator with user given values..
+A text maze generator with user given values.
